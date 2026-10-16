@@ -1,6 +1,6 @@
 {
   "name": "binary-file-diff",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Computes byte-level differences between two files and produces a patch that can be applied to recreate the target.",
   "type": "module",
   "main": "src/index.js",
